@@ -1,5 +1,7 @@
 public class Person {
+
     protected String name;
+
     protected int age;
 
     public Person(String name, int age) {
@@ -28,5 +30,9 @@ public class Person {
     public void celebrateBirthday() {
         age = age + 1;
         System.out.println(name + " is now " + age + " years old");
+    }
+
+    public void NewMethod5() {
+        // TODO: VR Generated Method
     }
 }

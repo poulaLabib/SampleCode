@@ -6,7 +6,7 @@ public class Course {
         this.title = title;
     }
 
-    public String getTitle() {
+    public String getTitlennnn() {
         return title;
     }
 

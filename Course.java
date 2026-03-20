@@ -1,4 +1,5 @@
 public class Course {
+
     private String title;
 
     public Course(String title) {
@@ -9,7 +10,7 @@ public class Course {
         return title;
     }
 
-    public void printInfo() {
+    public void printInfo(String param1) {
         System.out.println("Course title: " + title);
     }
 

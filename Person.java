@@ -43,4 +43,8 @@ public class Person {
     public void NewMethod5() {
         // TODO: VR Generated Method
     }
+
+    public void NewMethod5() {
+        /* VR Auto-generated method */
+    }
 }

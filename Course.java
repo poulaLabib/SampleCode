@@ -25,7 +25,7 @@ public class Course {
         System.out.println("Uppercase title: " + title.toUpperCase());
     }
 
-    public void NewMethod5() {
+    public void NewMethod5hh() {
         /* VR Auto-generated method */
     }
 }

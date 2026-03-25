@@ -33,6 +33,4 @@ public class Course {
         /* VR Auto-generated method */
     }
     
-    public void NewMethod7() {
-}
 }

@@ -6,7 +6,7 @@ public class Course {
         this.title = title;
     }
 
-    public String getTitle() {
+    public String getTitlevv() {
         return title;
     }
 
@@ -26,6 +26,9 @@ public class Course {
     }
     
     public void NewMethod5() {
+}
+    
+    public void NewMethod6() {
 }
 
 

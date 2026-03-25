@@ -32,4 +32,7 @@ public class Professor extends Person {
         int workload = courses * students + hours * 10;
         System.out.println("Workload score: " + workload);
     }
+    
+    public void NewMethod5() {
+}
 }

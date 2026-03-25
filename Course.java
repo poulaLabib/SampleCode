@@ -28,9 +28,5 @@ public class Course {
     public void NewMethod5() {
         /* VR Auto-generated method */
     }
-
-    public void NewMethod5() {
-        /* VR Auto-generated method */
-    }
     
 }

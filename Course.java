@@ -10,7 +10,7 @@ public class Course {
         return title;
     }
 
-    public void printInfo(String param1vvvv) {
+    public void printInfo(String param2) {
         System.out.println("Course title: " + title);
     }
 

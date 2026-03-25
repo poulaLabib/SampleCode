@@ -27,6 +27,9 @@ public class Course {
     
     public void NewMethod5() {
 }
+    
+    public void NewMethod6() {
+}
 
 
 }

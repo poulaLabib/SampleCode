@@ -50,4 +50,7 @@ public class Person {
     
     public void NewMethod6() {
 }
+    
+    public void NewMethod5() {
+}
 }

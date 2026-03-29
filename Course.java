@@ -30,6 +30,9 @@ public class Course {
     
     public void NewMethod6() {
 }
+    
+    public void NewMethod7() {
+}
 
 
 

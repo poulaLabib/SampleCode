@@ -20,7 +20,7 @@ public class Course {
         }
     }
 
-    public void analyzeTitle() {
+    public void analyzeTitlehh() {
         System.out.println("Title length: " + title.length());
         System.out.println("Uppercase title: " + title.toUpperCase());
     }

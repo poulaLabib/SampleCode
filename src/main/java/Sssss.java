@@ -1,14 +1,14 @@
-public class Sssss {
+public class GameEntity {
 
-    public Sssss() {
+    public GameEntity() {
     }
 
-    public void Method1() {
+    public void performActionOne() {
     }
 
-    public void Method2() {
+    public void performActionTwo() {
     }
 
-    public void Method3() {
+    public void performActionThree() {
     }
 }

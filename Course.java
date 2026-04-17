@@ -32,15 +32,13 @@ public class Course {
     public void placeholderMethod2() {
     }
 
-    public void placeholderMethod3() {
+    public void placeholderMethod3gg() {
     }
+    
+    public void NewMethod8() {
+}
 
     
-    public void NewMethod9() {
-}
-    
-    public void NewMethod9() {
-}
 
 
 }

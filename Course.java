@@ -10,30 +10,31 @@ public class Course {
         return title;
     }
 
-    public void printInfo(String param2) {
+    public void printCourseInformation() {
         System.out.println("Course title: " + title);
     }
 
-    public void renameCourse(String newTitle) {
+    public void updateTitle(String newTitle) {
         if (newTitle != null && newTitle.length() > 3) {
             this.title = newTitle;
         }
     }
 
-    public void analyzeTitle() {
+    public void displayTitleAnalysis() {
         System.out.println("Title length: " + title.length());
         System.out.println("Uppercase title: " + title.toUpperCase());
     }
-    
+
+    // Placeholder methods kept for consistency, though their names are not ideal.
     public void placeholderMethod1() {
     }
-    
+
     public void placeholderMethod2() {
     }
-    
+
     public void placeholderMethod3() {
     }
-    
+
     public void placeholderMethod4() {
     }
 

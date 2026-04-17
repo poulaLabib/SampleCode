@@ -31,23 +31,4 @@ public class Person {
         age = age + 1;
         System.out.println(name + " is now " + age + " years old");
     }
-
-    public void NewMethod5() {
-        // TODO: VR Generated Method
-    }
-
-    public void NewMethod5() {
-        // TODO: VR Generated Method
-    }
-
-    public void NewMethod5() {
-        // TODO: VR Generated Method
-    }
-
-    public void NewMethod5() {
-        /* VR Auto-generated method */
-    }
-    
-    public void NewMethod6() {
-}
 }

@@ -31,4 +31,7 @@ public class Person {
         age = age + 1;
         System.out.println(name + " is now " + age + " years old");
     }
+    
+    public void placeholderMethod4() {
+    }
 }

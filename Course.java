@@ -35,11 +35,12 @@ public class Course {
     public void placeholderMethod3() {
     }
 
-    public void placeholderMethod4() {
-    }
     
     public void NewMethod9() {
 }
     
+    public void NewMethod9() {
+}
+
 
 }

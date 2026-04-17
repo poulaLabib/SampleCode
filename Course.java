@@ -20,7 +20,7 @@ public class Course {
         }
     }
 
-    public void displayTitleAnalysis() {
+    public void displayTitleAnalysispp() {
         System.out.println("Title length: " + title.length());
         System.out.println("Uppercase title: " + title.toUpperCase());
     }
@@ -37,5 +37,8 @@ public class Course {
 
     public void placeholderMethod4() {
     }
+    
+    public void NewMethod9() {
+}
 
 }

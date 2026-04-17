@@ -6,7 +6,7 @@ public class Course {
         this.title = title;
     }
 
-    public String getTitlevv() {
+    public String getTitle() {
         return title;
     }
 
@@ -25,18 +25,16 @@ public class Course {
         System.out.println("Uppercase title: " + title.toUpperCase());
     }
     
-    public void NewMethod5() {
-}
+    public void placeholderMethod1() {
+    }
     
-    public void NewMethod6() {
-}
+    public void placeholderMethod2() {
+    }
     
-    public void NewMethod7() {
-}
+    public void placeholderMethod3() {
+    }
     
-    public void NewMethod8() {
-}
-
-
+    public void placeholderMethod4() {
+    }
 
 }

@@ -1,14 +1,14 @@
-public class SEIF {
+public class GameplayManager {
 
-    public SEIF() {
+    public GameplayManager() {
     }
 
-    public void Method1() {
+    public void startGame() {
     }
 
-    public void Method2() {
+    public void pauseGame() {
     }
 
-    public void Method3() {
+    public void endGame() {
     }
 }

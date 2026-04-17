@@ -40,5 +40,8 @@ public class Course {
     
     public void NewMethod9() {
 }
+    
+    public void NewMethod10() {
+}
 
 }

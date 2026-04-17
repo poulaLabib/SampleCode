@@ -20,11 +20,6 @@ public class Course {
         }
     }
 
-    public void displayTitleAnalysispp() {
-        System.out.println("Title length: " + title.length());
-        System.out.println("Uppercase title: " + title.toUpperCase());
-    }
-
     // Placeholder methods kept for consistency, though their names are not ideal.
     public void placeholderMethod1() {
     }
@@ -32,10 +27,11 @@ public class Course {
     public void placeholderMethod2() {
     }
 
-    public void placeholderMethod3gg() {
+    public void placeholderMethod3() {
     }
     
-    public void NewMethod8() {
+    
+    public void NewMethod9() {
 }
 
     

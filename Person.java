@@ -34,4 +34,9 @@ public class Person {
     
     public void placeholderMethod4() {
     }
+    
+    public void displayTitleAnalysispp() {
+        System.out.println("Title length: " + title.length());
+        System.out.println("Uppercase title: " + title.toUpperCase());
+    }
 }

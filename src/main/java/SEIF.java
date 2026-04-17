@@ -1,14 +1,14 @@
-public class GameplayManager {
+public class GameSimulationEngine {
 
-    public GameplayManager() {
+    public GameSimulationEngine() {
     }
 
-    public void startGame() {
+    public void initializeGame() {
     }
 
-    public void pauseGame() {
+    public void updateGameLogic() {
     }
 
-    public void endGame() {
+    public void renderGameView() {
     }
 }

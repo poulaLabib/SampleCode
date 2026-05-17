@@ -1,13 +1,13 @@
-public class Courses {
+public class Course {
 
     private String title;
 
-    public Courses(String title) {
+    public Course(String title) {
         this.title = title;
     }
 
-    public void printCourseInformation() {
-        System.out.println("Course title: " + title);
+    public String getTitle() {
+        return title;
     }
 
     public void updateTitle(String newTitle) {
@@ -16,22 +16,24 @@ public class Courses {
         }
     }
 
-    // Placeholder methods kept for consistency, though their names are not ideal.
-    public void placeholderMethod1() {
+    public void printCourseInformation() {
+        System.out.println("Course title: " + title);
     }
 
-    public void placeholderMethod2() {
+    // Placeholder methods for potential future functionality related to a Course.
+    public void performCourseAction1() {
+        // Implementation details...
     }
 
-    public void placeholderMethod3() {
+    public void performCourseAction2() {
+        // Implementation details...
     }
-    
-    
-    public void NewMethod9() {
-}
-    
 
-    
+    public void performCourseAction3() {
+        // Implementation details...
+    }
 
-
+    public void executeCourseRoutine() {
+        // Implementation details...
+    }
 }
